@@ -9,10 +9,15 @@ namespace To_Do_List_Windows_App
 
         private void todoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            int degisiklik1 = 3;
+
         }
 
         private void btnyenigorev_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnduzelt_Click(object sender, EventArgs e)
         {
             
         }

@@ -184,6 +184,7 @@
             btnduzelt.Name = "btnduzelt";
             btnduzelt.Size = new Size(29, 24);
             btnduzelt.Text = "Duzelt";
+            btnduzelt.Click += btnduzelt_Click;
             // 
             // btnsil
             // 
